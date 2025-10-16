@@ -1,6 +1,6 @@
 {
   "status": "YES",
-  "version": "4.4",
-  "download_url": "https://github.com/domtuan1313/Proxy_Manager/releases/download/v4.4/Proxy_v4.3.zip",
-  "changelog": "Bản 4.4 - Tối ưu Scripts_Terminal, cải thiện kết nối SSH."
+  "version": "4.3",
+  "download_url": "https://github.com/domtuan1313/Proxy_Manager/releases/download/v4.3/Proxy_v4.3.zip",
+  "changelog": "Bản 4.3 - Cập nhật Scripts_Terminal, cải thiện kết nối SSH và tối ưu hiệu năng."
 }
