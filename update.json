@@ -1,6 +1,6 @@
 {
   "status": "YES",
-  "version": "4.3",
+  "version": "5.1",
   "download_url": "https://github.com/domtuan1313/Proxy_Manager/releases/download/v4.3/Proxy_update.zip",
-  "changelog": "Bản 4.3 - Cập nhật Scripts_Terminal, cải thiện kết nối SSH và tối ưu hiệu năng."
+  "changelog": "Bản 5.1 - Cập nhật Scripts_Terminal, Thêm Proxy Sock5 , Đổi User/PaSS proxy."
 }
